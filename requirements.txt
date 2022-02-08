@@ -1,0 +1,4 @@
+notebook==6.4.8
+pandas==1.4.0
+scipy==1.8.0
+xarray==0.21.1
